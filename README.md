@@ -7,6 +7,8 @@ Aurélien Géron's Textbook Python Notebooks:
 https://github.com/ageron/handson-mlp
 
 
+https://colab.research.google.com/drive/1dSQMFTt6HYh_p8zoJzT3jPeWAQ0Gjjl_
+
 
 Instructions for instructor:
 
